@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cube_pay\n"
+"Report-Msgid-Bugs-To: https://github.com/woocommerce/woocommerce/issues\n"
+"POT-Creation-Date: 2018-10-03 15:11+0800\n"
+"PO-Revision-Date: 2018-10-03 15:32+0800\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Language-Team: cubepay.io\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: .\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh_TW\n"
+
+msgid "Provide user to checkout by cryptocurrency"
+msgstr "提供使用者利用虛擬貨幣付清款項"
+
+msgid "Proceed to Cubepay"
+msgstr "前往Cubepay支付"
+
+msgid "Enable Cubepay Payment"
+msgstr "啟動Cubepay支付"
+
+msgid "Payment Title"
+msgstr "付款方式標題"
+
+msgid "The title of the payment method, shown at checkout page"
+msgstr "用來顯示在付款頁面的付款方式"
+
+msgid "Payment Description"
+msgstr "付款方式描述"
+
+msgid "This will redirect to cubepay website and paid by cryptocurrency"
+msgstr "這個支付方式將會導向至cubepay網站進行虛擬貨幣支付"
+
+msgid "Cubepay API Url endpoint"
+msgstr "Cubepay API 網址"
+
+msgid "Cubepay API Url that provided by cubepay.io"
+msgstr "Cubepay 提供的API 網址"
+
+msgid "Client ID"
+msgstr "Cubepay 用戶ID"
+
+msgid "Your client ID, provided by cubepay.io
+msgstr "Cubepay 提供的用戶ID"
+
+msgid "Cubepay Secret"
+msgstr "Cubepay 密鑰"
+
+msgid "Your client secret, provided by cubepay.io"
+msgstr "Cubepay 提供的用戶密鑰"
+
+msgid "Accepted currency"
+msgstr "允許收取的貨幣"
+
+msgid "Awaiting cubepay payment"
+msgstr "等待cubepay付款"
+
+msgid "Get coin from cubepay gateway"
+msgstr "從cubepay取得加密貨幣"

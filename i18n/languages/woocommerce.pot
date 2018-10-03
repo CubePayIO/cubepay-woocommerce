@@ -1,0 +1,65 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cube_pay\n"
+"Report-Msgid-Bugs-To: https://github.com/woocommerce/woocommerce/issues\n"
+"POT-Creation-Date: 2018-10-03 15:11+0800\n"
+"PO-Revision-Date: 2018-10-03 15:15+0800\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: cubepay.io\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "Provide user to checkout by cryptocurrency"
+msgstr ""
+
+msgid "Proceed to Cubepay"
+msgstr ""
+
+msgid "Enable Cubepay Payment"
+msgstr ""
+
+msgid "Enable/Disable"
+msgstr ""
+
+msgid "Payment Title"
+msgstr ""
+
+msgid "The title of the payment method, shown at checkout page"
+msgstr ""
+
+msgid "Payment Description"
+msgstr ""
+
+msgid "This will redirect to cubepay website and paid by cryptocurrency"
+msgstr ""
+
+msgid "Cubepay API Url endpoint"
+msgstr ""
+
+msgid "Cubepay API Url that provided by cubepay.io"
+msgstr ""
+
+msgid "Client ID"
+msgstr ""
+
+msgid "Your client ID, provided by cubepay.io
+msgstr ""
+
+msgid "Cubepay Secret"
+msgstr ""
+
+msgid "Your client secret, provided by cubepay.io"
+msgstr ""
+
+msgid "Accepted currency"
+msgstr ""
+
+msgid "Awaiting cubepay payment"
+msgstr ""
+
+msgid "Get coin from cubepay gateway"
+msgstr ""
