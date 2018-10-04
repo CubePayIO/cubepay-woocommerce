@@ -16,4 +16,4 @@ https://document.cubepay.io
 - open Wordpress Admin panel and login as Admin
 - click WooCommerce -> Setting -> Payments and enable Cubepay Payment Gateway
 - setup your Client ID and Secret that provide by Cubepay.io
-- adjust your payment gateway Api Url as 'http://api.cubepay.io/payment'
+- adjust your payment gateway Api Url as 'http://api.cubepay.io'
