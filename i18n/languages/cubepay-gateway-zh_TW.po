@@ -15,6 +15,9 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "Language: zh_TW\n"
 
+msgid "Enable/Disable"
+msgstr "啟動/停用"
+
 msgid "Provide user to checkout by cryptocurrency"
 msgstr "提供使用者利用虛擬貨幣付清款項"
 
@@ -34,7 +37,7 @@ msgid "Payment Description"
 msgstr "付款方式描述"
 
 msgid "This will redirect to cubepay website and paid by cryptocurrency"
-msgstr "這個支付方式將會導向至cubepay網站進行虛擬貨幣支付"
+msgstr "透過加密貨幣付款 (如 BTC, ETH....)"
 
 msgid "Cubepay API Url endpoint"
 msgstr "Cubepay API 網址"
@@ -54,8 +57,11 @@ msgstr "Cubepay 密鑰"
 msgid "Your client secret, provided by cubepay.io"
 msgstr "Cubepay 提供的用戶密鑰"
 
+msgid "Currency"
+msgstr "幣別"
+
 msgid "Accepted currency"
-msgstr "允許收取的貨幣"
+msgstr "商城使用計價的貨幣"
 
 msgid "Awaiting cubepay payment"
 msgstr "等待cubepay付款"

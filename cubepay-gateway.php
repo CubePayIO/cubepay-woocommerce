@@ -134,7 +134,7 @@ function wc_cubepay_gateway_init()
                     'desc_tip' => true,
                 ),
                 'source_coin' => array(
-                    'title' => __('Source_Coin', 'wc-gateway-offline'),
+                    'title' => __('Currency', 'cubepay-gateway'),
                     'type' => 'select',
                     'description' => __('Accepted currency', 'cubepay-gateway'),
                     'class' => 'wc-enhanced-select',

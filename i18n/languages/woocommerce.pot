@@ -13,6 +13,9 @@ msgstr ""
 "X-Generator: Poedit 2.1.1\n"
 "X-Poedit-Basepath: .\n"
 
+msgid "Enable/Disable"
+msgstr ""
+
 msgid "Provide user to checkout by cryptocurrency"
 msgstr ""
 
@@ -53,6 +56,9 @@ msgid "Cubepay Secret"
 msgstr ""
 
 msgid "Your client secret, provided by cubepay.io"
+msgstr ""
+
+msgid "Currency"
 msgstr ""
 
 msgid "Accepted currency"
